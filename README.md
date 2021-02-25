@@ -27,3 +27,5 @@ gender-debias
 * `src/debiaswe`: Obtained and arranged debiaswe code from [1]. (*Note to self* :: A better approach would have been fork this project and have it as a submodule...)  
 * `src/utils`: Utility scripts to pre-process and other tasks.
 * `model.ipynb`: Jupyter notebook to train and test models.
+
+[1]: https://github.com/tolga-b/debiaswe
