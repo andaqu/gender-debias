@@ -16,5 +16,5 @@ for p in professions:
     t = translator.translate(p[0], lang_tgt="mt")
     mt_professions.append([convert.maltese_to_english(t.strip()), p[1], p[2]])
 
-with open("mt_professions.json", 'w') as f:
+with open("data/mt_professions.json", 'w') as f:
     json.dump(mt_professions, fp=f)
