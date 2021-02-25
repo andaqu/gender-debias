@@ -1,6 +1,4 @@
 dataset/*
-doc/
-papers/
 __pycache__/
 saved/neutral/
 saved/original/

@@ -2,19 +2,21 @@ Project structure:
 
 ```
 gender-debias
-├── dataset
+├── dataset (*)
 │   ├── dataset-neutral
 │   ├── dataset-original
 │   └── dataset-raw
-├── saved
-│   ├── neutral
-│   ├── original
+├── saved 
+│   ├── neutral (*)
+│   ├── original (*)
 │   └── data
 └── src
     ├── debiaswe
     ├── utils
     └── model.ipynb
 ```
+
+> `(*)` not included in repository. Please refer to Google Drive link coming soon.
 
 * `dataset-neutral`: Lemmatised pre-processed dataset.
 * `dataset-original`: Pre-processed dataset.
