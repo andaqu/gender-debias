@@ -28,5 +28,5 @@ gender-debias
 * `src/utils`: Utility scripts to pre-process and other tasks.
 * `model.ipynb`: Jupyter notebook to train and test models.
 
-`[1]`: https://bit.ly/3krABOw
+`[1]`: https://bit.ly/3krABOw  
 `[2]`: https://github.com/tolga-b/debiaswe
