@@ -2,6 +2,7 @@ Project structure:
 
 ```
 gender-debias
+├── report.pdf
 ├── dataset (*)
 │   ├── dataset-neutral
 │   ├── dataset-original
@@ -18,6 +19,7 @@ gender-debias
 
 > `(*)` not included in repository. Please refer to Google Drive link `[1]`.
 
+* `report.pdf`: Coursework report.
 * `dataset-neutral`: Lemmatised pre-processed dataset.
 * `dataset-original`: Pre-processed dataset.
 * `dataset-raw`: Original obtained dataset.
