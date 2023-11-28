@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 authors:
 - family-names: "Andrew Aquilina"
-title: "gender-debias"
+title: "maltese-gender-debias"
 version: 1.0.0
 date-released: 2021-02-26
-url: "https://github.com/andaqu/gender-debias"
+url: "https://github.com/andaqu/maltese-gender-debias"
